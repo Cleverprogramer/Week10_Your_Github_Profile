@@ -1,10 +1,6 @@
 # Week 10: Your Github Profile
 these imges are project that i make imges
 
-![brave_sxmj18aRuS](https://github.com/Cleverprogramer/Week10_Your_Github_Profile/assets/112668705/2e855cd0-7bec-4c04-b912-282aeb666bac)
-![brave_Th3vMm2W4b](https://github.com/Cleverprogramer/Week10_Your_Github_Profile/assets/112668705/4ebeda54-0b60-4737-832c-d9e5f4a60eee)
-![brave_lNMHvwENmC](https://github.com/Cleverprogramer/Week10_Your_Github_Profile/assets/112668705/ef188de2-04cc-4a25-b693-c62732e6c2a4)
-![brave_QQd02TtZ3K](https://github.com/Cleverprogramer/Week10_Your_Github_Profile/assets/112668705/fd5ebba0-269d-43c2-9a1c-0e3278ed9ce8)
 
 ## Http Request, React Side Effects, and Client Routing
 
